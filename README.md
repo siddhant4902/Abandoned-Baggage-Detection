@@ -1,7 +1,7 @@
 # Computer-Vision-Project
 Abandoned Baggage detection at airport
 
-Used yolov4 object detection model to identify person and baggages. After detecting baggages, our objective is to determine whether the baggage is abandoned or not.
+Used yolov5 object detection model to identify person and baggages. After detecting baggages, our objective is to determine whether the baggage is abandoned or not.
 
 
 APPROACH
